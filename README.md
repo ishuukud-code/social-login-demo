@@ -1,40 +1,33 @@
-# social-login-demo
-Upgrade my existing Social Login Demo website into a beautiful, professional, modern cybersecurity training website.
+Upgrade my existing Social Login Demo HTML website into a premium-looking cybersecurity awareness website.
 
-Use HTML, CSS and JavaScript.
+Keep it as a clearly labelled training simulation.
 
-**Design requirements:**
-- Modern social-media-inspired design.
-- Beautiful gradient background.
-- Smooth animations and transitions.
+Design:
+- Modern dark navy and purple gradient background.
+- Beautiful centered login card.
+- Smooth animations and hover effects.
 - Professional typography.
-- Rounded cards and buttons.
-- Responsive design for mobile and desktop.
-- Attractive icons and visual effects.
-- Dark and light mode toggle.
+- Rounded input fields and buttons.
+- Responsive mobile layout.
+- Dark/light mode toggle.
 
-**Features:**
-1. A visually appealing demonstration login page.
-2. Username and password input fields using dummy test data only.
-3. A working demo login button.
-4. Loading animation when the button is clicked.
-5. A simulated success message.
-6. A section explaining how phishing attacks work.
-7. A section explaining how to identify suspicious links.
-8. A cybersecurity safety tips section.
-9. A reset demo button.
+Functionality:
+- Username and password fields using dummy input only.
+- Login button with loading animation.
+- Display a simulated login success message.
+- Show an educational popup explaining phishing.
+- Add a reset button.
+- Add a section with cybersecurity safety tips.
 
-**Important security requirements:**
-- Clearly identify the website as a cybersecurity training simulation.
-- Do not imitate Instagram's actual branding or domain.
-- Never collect, save, or transmit passwords.
-- Do not send user information to external servers.
+Security:
+- Never collect, store or transmit passwords.
+- Do not impersonate Instagram or any real service.
+- Clearly identify the page as a training simulation.
 
-**Technical requirements:**
-- Keep everything beginner-friendly.
-- Use clean, organized code.
-- Put everything in one HTML file.
+Technical:
+- Use HTML, CSS and JavaScript.
+- Keep everything in one index.html file.
 - Make all buttons functional.
-- Preserve compatibility with GitHub Pages.
+- Ensure GitHub Pages compatibility.
 
-Make the final result look like a polished professional cybersecurity project, not a basic school assignment.
+Return the complete updated code, not just code snippets.
