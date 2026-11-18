@@ -1,0 +1,52 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Social Login Demo</title>
+<style>
+body {
+  background: #f0f2f5;
+  font-family: Arial;
+  text-align: center;
+  padding-top: 80px;
+}
+.box {
+  background: white;
+  width: 300px;
+  margin: auto;
+  padding: 25px;
+  border-radius: 12px;
+  box-shadow: 0 3px 12px #ccc;
+}
+input, button {
+  width: 90%;
+  padding: 12px;
+  margin: 8px;
+  box-sizing: border-box;
+}
+button {
+  background: #2867d8;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+</style>
+</head>
+<body>
+
+<div class="box">
+<h2>Social Login Demo</h2>
+<p>Cybersecurity training project</p>
+
+<input placeholder="Demo username">
+<input type="password" placeholder="Demo password">
+
+<button onclick="document.getElementById('result').innerText='Demo successful! No credentials were collected.'">
+Login
+</button>
+
+<p id="result"></p>
+</div>
+
+</body>
+</html>
